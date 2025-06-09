@@ -1,0 +1,44 @@
+ORIG_CODE,ORIG_NAME,NEW_CODE,NEW_NAME
+E07000026 , Allerdale,E06000063 ,Cumbria
+E07000028 , Carlisle,E06000063 ,Cumbria
+E07000029 , Copeland,E06000063 ,Cumbria
+E07000027 , Barrow-in-Furness,E06000064 , Westmorland and Furness
+E07000030 , Eden,E06000064 , Westmorland and Furness
+E07000031 , South Lakeland,E06000064 , Westmorland and Furness
+E07000163 , Craven,E06000065 , North Yorkshire
+E07000164 , Hambleton,E06000065 , North Yorkshire
+E07000165 , Harrogate,E06000065 , North Yorkshire
+E07000166 , Richmondshire,E06000065 , North Yorkshire
+E07000167 , Ryedale,E06000065 , North Yorkshire
+E07000168 , Scarborough,E06000065 , North Yorkshire
+E07000169 , Selby,E06000065 , North Yorkshire
+E07000187 , Mendip,E06000066 , Somerset
+E07000188 , Sedgemoor,E06000066 , Somerset
+E07000189 , South Somerset,E06000066 , Somerset
+E07000246 , Somerset West and Taunton,E06000066 , Somerset
+E07000150 , Corby,E06000061 , North Northamptonshire
+E07000152 , East Northamptonshire,E06000061 , North Northamptonshire
+E07000153 , Kettering,E06000061 , North Northamptonshire
+E07000156 , Wellingborough,E06000061 , North Northamptonshire
+E07000151 , Daventry,E06000062 , West Northamptonshire
+E07000154 , Northampton,E06000062 , West Northamptonshire
+E07000155 , South Northamptonshire,E06000062 , West Northamptonshire
+E07000004 , Aylesbury Vale,E06000060 , Buckinghamshire
+E07000005 , Chiltern,E06000060 , Buckinghamshire
+E07000006 , South Bucks,E06000060 , Buckinghamshire
+E07000007 , Wycombe,E06000060 , Buckinghamshire
+E06000028 , Bournemouth,E06000058 ," Bournemouth, Christchurch and Poole"
+E07000048 , Christchurch,E06000058 ," Bournemouth, Christchurch and Poole"
+E06000029 , Poole,E06000058 ," Bournemouth, Christchurch and Poole"
+E07000049 , East Dorset,E06000059 , Dorset
+E07000050 , North Dorset,E06000059 , Dorset
+E07000053 , Weymouth and Portland,E06000059 , Dorset
+E07000051 , Purbeck,E06000059 , Dorset
+E07000052 , West Dorset,E06000059 , Dorset
+E07000205 , Suffolk Coastal,E07000244 , East Suffolk
+E07000206 , Waveney,E07000244 , East Suffolk
+E07000201 , Forest Heath,E07000245 , West Suffolk
+E07000204 , St Edmundsbury,E07000245 , West Suffolk
+E07000190 , Taunton Deane,E07000246 , Somerset West and Taunton
+E07000191 , West Somerset,E07000246 , Somerset West and Taunton
+E07000112 , Shepway,E07000112 , Folkestone and Hythe
