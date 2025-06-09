@@ -26,7 +26,7 @@ The goal is to inform future public health planning by highlighting key drivers 
 
 ## Data Sources
 
-- **COVID-19 Deaths Data** – Provided via UEL Moodle (CSV format)
+- **COVID-19 Deaths Data** – Provided from National Statistics (NOMIS)
 - **2021 Census Data** – Downloaded from the Office for National Statistics (NOMIS)
 - All data standardized per thousand population and merged using district codes
 
